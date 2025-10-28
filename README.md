@@ -37,9 +37,6 @@ Created a Windows 10 VM in Microsoft Azure (2 vCPUs, 8GB Ram) and accessed via R
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
   <h2>IIS & CGI Configuration</h2>
   
@@ -51,7 +48,7 @@ Created a Windows 10 VM in Microsoft Azure (2 vCPUs, 8GB Ram) and accessed via R
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
  <h2>PHP & MySQL Setup</h2>
   
@@ -61,7 +58,7 @@ Created a Windows 10 VM in Microsoft Azure (2 vCPUs, 8GB Ram) and accessed via R
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
  <h2>osTicket Installation & Config</h2>
   
